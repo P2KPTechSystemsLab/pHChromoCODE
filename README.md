@@ -174,7 +174,7 @@ Performs:
 
 ## ⚠️ Limitations
 
-* **Calibration-dependent**: Model only predicts within the pH range it was trained on (e.g., 5.5–8.0)
+* **Calibration-dependent**: Model  predicts within the pH range it was trained on (e.g., 5.5–8.0)
 * Adjust calibration images accordingly if working outside that range
 
 ---
